@@ -12,7 +12,14 @@ To use this repository, please follow the steps below:
 ```
 git clone https://github.com/Gin-Arata/starter-discord-js.git .
 ```
-- And finish installing the discord js starter.
+- To install all of the package, use command
+```
+npm i
+```
+or
+```
+npm install
+```
 ## CLI
 To install these repositories via CLI please follow the steps below:
 - Create a folder (example: Discord Bot)
@@ -27,7 +34,14 @@ cd "Discord Bot"
 ```
 git clone https://github.com/Gin-Arata/starter-discord-js.git .
 ```
-- And finished installing the discord js starter.
+- To install all of the package, use command
+```
+npm i
+```
+or
+```
+npm install
+```
 
 # Running Command
 To run these repositories are divided into two commands
