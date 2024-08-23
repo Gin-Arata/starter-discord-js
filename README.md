@@ -1,41 +1,41 @@
-# Starter Discord JS
-## Apa Itu Discord.JS?
-Discord.js adalah sebuah library yang dibuat untuk membuat bot discord menggunakan JS sebagai bahasa pemrograman utamanya
+# Discord JS Starter
+## What is Discord.JS?
+Discord.js is a library to create discord a bot using JS as its main programming language
 
 # Installation
 ## Windows & Mac
-Untuk menggunakan repositories ini silahkan ikuti langkah-langkah dibawah:
-- Buat suatu folder (contoh: Discord Bot)
-- Masuk ke dalam folder Anda
-- Buka powershell/console
-- Clone repositories ini di dalam folder yang telah dibuat
-  ```
-  git clone https://github.com/Gin-Arata/starter-discord-js.git .
-  ```
-- Dan selesai melakukan penginstalan starter discord js.
+To use this repository, please follow the steps below:
+- Create a folder (example: Discord Bot)
+- Go into your folder
+- Open powershell/console
+- Clone this repository in the folder that has been created
+```
+git clone https://github.com/Gin-Arata/starter-discord-js.git .
+```
+- And finish installing the discord js starter.
 ## CLI
-Untuk menginstall repositories ini melalui CLI silahkan ikut langkah-langkah dibawah:
-- Buat suatu folder (contoh: Discord Bot)
-  ```
-  mkdir "Discord Bot"
-  ```
-- Masuk ke dalam folder Anda
-  ```
-  cd "Discord Bot"
-  ```
-- Clone repositories ini di dalam folder yang telah dibuat
-  ```
-  git clone https://github.com/Gin-Arata/starter-discord-js.git .
-  ```
-- Dan selesai melakukan penginstalan starter discord js.
+To install these repositories via CLI please follow the steps below:
+- Create a folder (example: Discord Bot)
+```
+mkdir "Discord Bot"
+```
+- Enter your folder
+```
+cd "Discord Bot"
+```
+- Clone these repositories in the folder that has been created
+```
+git clone https://github.com/Gin-Arata/starter-discord-js.git .
+```
+- And finished installing the discord js starter.
 
 # Running Command
-Untuk menjalankan repositories ini terbagi menjadi dua command
-- Menjalankan/Menyalakan Bot
-  ```
-  npm run start
-  ```
-- Melakukan deploy/refresh command bot
-  ```
-  npm run deploy
-  ```
+To run these repositories are divided into two commands
+- Running/Turning on the Bot
+```
+npm run start
+```
+- Deploying/refreshing the bot command
+```
+npm run deploy
+```
