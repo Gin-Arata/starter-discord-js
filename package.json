@@ -1,0 +1,23 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-command.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "eslint": "^9.9.0",
+    "globals": "^15.9.0"
+  }
+}
